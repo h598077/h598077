@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @h598077
 - 👀 I’m interested in Nature
 - 🌱 I’m currently learning How to program
-- 💞️ I’m looking to collaborate on Ideas
+- 💞️ I’m looking to collaborate on New ideas
 
 
 <!---
