@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @h598077
 - 👀 I’m interested in Nature
-- 🌱 I’m currently learning How to program
+- 🌱 I’m currently learning Master in software development
 - 💞️ I’m looking to collaborate on New ideas
 
 
