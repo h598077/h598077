@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @h598077
 - 👀 I’m interested in Nature
-- 🌱 I’m currently a Master’s student in Software Development
+- 🌱 I’m currently a Master’s student in Software Engineering
 - 💞️ I’m looking to collaborate on New ideas
 
 
